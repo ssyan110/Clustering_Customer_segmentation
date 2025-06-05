@@ -50,7 +50,7 @@ This project performs customer segmentation on a credit card dataset using K-Mea
 ## Files Included
 
 - `Customer_Clustering.ipynb` – Full code, step-by-step process
-- Dataset path (local): `Data/CC_GENERAL.csv`
+- Dataset: `CC_GENERAL.csv`
 
 ## How to Run
 
